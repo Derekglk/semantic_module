@@ -1,0 +1,22 @@
+{
+	"light":
+	{
+		"location": ["living-room", "kitchen", "bathroom"],
+		"action": ["turn-on", "turn-off", "turn-down", "turn-up", "switch-on", "swich-off"]
+	},
+
+	"window":
+	{
+		"action": ["close", "open"]
+	},
+
+	"door":
+	{
+		"action": ["lock", "unlock"]
+	},
+
+	"radiator":
+	{
+		"action": ["turn-on", "turn-off", "turn-up", "turn-down"]
+	}
+}
