@@ -1,22 +1,22 @@
 {
-	"light":
+	"LIGHT":
 	{
-		"location": ["living-room", "kitchen", "bathroom"],
-		"action": ["turn-on", "turn-off", "turn-down", "turn-up", "switch-on", "swich-off"]
+		"location": ["LIVING-ROOM", "KITCHEN", "BATHROOM"],
+		"action": ["TURN-ON", "TURN-OFF", "TURN-DOWN", "TURN-UP", "SWITCH-ON", "SWITCH-OFF"]
 	},
 
-	"window":
+	"WINDOW":
 	{
-		"action": ["close", "open"]
+		"action": ["CLOSE", "OPEN"]
 	},
 
-	"door":
+	"DOOR":
 	{
-		"action": ["lock", "unlock"]
+		"action": ["LOCK", "UNLOCK"]
 	},
 
-	"radiator":
+	"RADIATOR":
 	{
-		"action": ["turn-on", "turn-off", "turn-up", "turn-down"]
+		"action": ["TURN-ON", "TURN-OFF", "TURN-UP", "TURN-DOWN"]
 	}
 }
